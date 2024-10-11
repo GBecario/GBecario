@@ -2,7 +2,7 @@
 
 <div>
 	<a href="https://github.com/GBecario">
-	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?GBecario-aqui&layout=compact&langs_count=7&theme=dracula"/>
+	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?GBecario&layout=compact&langs_count=7&theme=dracula"/>
 	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GBecario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!---
