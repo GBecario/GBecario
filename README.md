@@ -1,7 +1,7 @@
 # 👋 Hello, Welcome to my Github profile.
 
 ## Aprendendo recentemente:
-<img height="180px" width="180px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="90px" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <div>
 	<a href="https://github.com/GBecario">
