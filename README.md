@@ -1,5 +1,8 @@
 # 👋 Hello, Welcome to my Github profile.
 
+## Aprendendo recentemente:
+<img height="180px" width="180px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <div>
 	<a href="https://github.com/GBecario">
 	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBecario&layout=compact&langs_count=7&theme=synthwave"/>
