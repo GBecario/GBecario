@@ -17,7 +17,7 @@
 <div>
 	<a href="https://github.com/GBecario">
 	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBecario&layout=compact&langs_count=7&theme=transparent"/>
-	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GBecario&show_icons=true&theme=transparent&include_all_commits=true"/>
+	<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GBecario&show_icons=true&line_height=25&theme=transparent&include_all_commits=true"/>
 </div>
 <!---
 GBecario/GBecario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
